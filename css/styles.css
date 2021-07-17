@@ -4,6 +4,8 @@ nav {
 
 .btn {
     width: 25%;
+    background-color: darkslategrey;
+    border: darkslategrey
 }
 
 .bottom-image {
@@ -13,4 +15,8 @@ nav {
 
 .bottom-column {
     height: 300px;
+}
+
+footer {
+    height: 50px;
 }
