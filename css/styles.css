@@ -1,7 +1,16 @@
 nav {
-    height: 100px;
+    height: 75px;
 }
 
 .btn {
     width: 25%;
 }
+
+.bottom-image {
+    height: auto;
+    max-width: 100%;
+}
+
+/* .bottom-column {
+    height: 100%;
+} */
