@@ -1,3 +1,4 @@
+
 nav {
     height: 75px;
 }
@@ -13,8 +14,8 @@ nav {
     max-width: 100%;
 }
 
-.bottom-column {
-    height: 300px;
+.bottom-container {
+    height: 400px;
 }
 
 footer {
