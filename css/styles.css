@@ -11,6 +11,6 @@ nav {
     max-width: 100%;
 }
 
-/* .bottom-column {
-    height: 100%;
-} */
+.bottom-column {
+    height: 300px;
+}
